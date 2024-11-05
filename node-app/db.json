@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "PS5",
+      "description": "Description for product 1",
+      "price": 100,
+      "stock": 5,
+      "image": "/images/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Nike Air Jordan",
+      "description": "Description for product 2",
+      "price": 200,
+      "stock": 2,
+      "image": "/images/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Rolex",
+      "description": "Description for product 3",
+      "price": 900,
+      "stock": 8,
+      "image": "/images/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "iPhone SE",
+      "description": "Description for product 4",
+      "price": 300,
+      "stock": 8,
+      "image": "/images/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Himachali Cap",
+      "description": "Description for product 4",
+      "price": 20,
+      "stock": 8,
+      "image": "/images/5.jpg"
+    }
+  ]
+}
